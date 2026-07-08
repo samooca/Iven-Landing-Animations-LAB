@@ -27,7 +27,3 @@
 | --- | ---: | --- | --- |
 | AMD Radeon(TM) Graphics | 512 MB | 32.0.11024.2 | AMD Radeon Graphics Processor (0x164E) |
 | NVIDIA GeForce RTX 4090 | 4 GB | 32.0.15.7680 | NVIDIA GeForce RTX 4090 |
-
-## Resumo
-
-Este sistema possui um processador de alto desempenho, 128 GB de RAM e uma configuração com integração AMD + placa de vídeo dedicada NVIDIA RTX 4090, ideal para tarefas pesadas de processamento, renderização e uso profissional.
