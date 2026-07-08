@@ -1,50 +1,33 @@
-﻿{
-    "OS":  {
-               "Architecture":  "64 bits",
-               "Name":  "Microsoft Windows 11 Pro",
-               "Version":  "10.0.26200",
-               "Build":  "26200"
-           },
-    "CPU":  {
-                "MaxClockSpeedMHz":  4501,
-                "LogicalProcessors":  32,
-                "Name":  "AMD Ryzen 9 7950X 16-Core Processor            ",
-                "Cores":  16
-            },
-    "RAM":  [
-                {
-                    "Capacity":  34359738368,
-                    "Manufacturer":  "Kingston",
-                    "PartNumber":  "KF556C40-32         "
-                },
-                {
-                    "Capacity":  34359738368,
-                    "Manufacturer":  "Kingston",
-                    "PartNumber":  "KF556C40-32         "
-                },
-                {
-                    "Capacity":  34359738368,
-                    "Manufacturer":  "Kingston",
-                    "PartNumber":  "KF556C40-32         "
-                },
-                {
-                    "Capacity":  34359738368,
-                    "Manufacturer":  "Kingston",
-                    "PartNumber":  "KF556C40-32         "
-                }
-            ],
-    "GPU":  [
-                {
-                    "Name":  "AMD Radeon(TM) Graphics",
-                    "AdapterRAM":  536870912,
-                    "DriverVersion":  "32.0.11024.2",
-                    "VideoProcessor":  "AMD Radeon Graphics Processor (0x164E)"
-                },
-                {
-                    "Name":  "NVIDIA GeForce RTX 4090",
-                    "AdapterRAM":  4293918720,
-                    "DriverVersion":  "32.0.15.7680",
-                    "VideoProcessor":  "NVIDIA GeForce RTX 4090"
-                }
-            ]
-}
+# Informações do Sistema
+
+## Visão Geral
+
+- Sistema operacional: Microsoft Windows 11 Pro
+- Arquitetura: 64 bits
+- Versão: 10.0.26200
+- Build: 26200
+
+## Processador
+
+- Modelo: AMD Ryzen 9 7950X 16-Core Processor
+- Núcleos físicos: 16
+- Processadores lógicos: 32
+- Frequência máxima: 4.501 GHz
+
+## Memória RAM
+
+- Total instalado: 128 GB
+- Módulos: 4 x 32 GB
+- Fabricante: Kingston
+- Part number: KF556C40-32
+
+## Placas de Vídeo
+
+| GPU | Memória | Driver | Processador de vídeo |
+| --- | ---: | --- | --- |
+| AMD Radeon(TM) Graphics | 512 MB | 32.0.11024.2 | AMD Radeon Graphics Processor (0x164E) |
+| NVIDIA GeForce RTX 4090 | 4 GB | 32.0.15.7680 | NVIDIA GeForce RTX 4090 |
+
+## Resumo
+
+Este sistema possui um processador de alto desempenho, 128 GB de RAM e uma configuração com integração AMD + placa de vídeo dedicada NVIDIA RTX 4090, ideal para tarefas pesadas de processamento, renderização e uso profissional.
